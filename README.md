@@ -1,4 +1,7 @@
+Original product video: https://vimeo.com/1012919311?share=copy
 Supporting video for IBM watson studio chatbot: https://vimeo.com/1019804991?share=copy
+
+
 
 1.	Watsonx AI LLM Integration (granite-13b-instruct-v2): 
 o	Precise Location Information Generation: When a user selects a specific area option (e.g., Staten Island), we leverage the granite-13b-instruct-v2 model to generate accurate location information.
